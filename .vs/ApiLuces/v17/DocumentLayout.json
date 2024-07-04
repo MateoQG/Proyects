@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\controllers\\validadorluces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\controllers\\validadorluces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\configuration\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\configuration\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\dto\\patronlucesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\dto\\patronlucesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\servicio\\ipatronlucesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\servicio\\ipatronlucesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\servicio\\patronlucesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\servicio\\patronlucesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\propiedades\\patronluces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\propiedades\\patronluces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\dto\\medicionlucesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\dto\\medicionlucesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\propiedades\\medicionluces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\propiedades\\medicionluces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|c:\\users\\mateo\\escritorio\\apoyo\\experimentos\\apiluces\\apiluces\\apiluces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E40A748-66DB-4F30-9A60-1956E10470D4}|ApiLuces\\ApiLuces.csproj|solutionrelative:apiluces\\apiluces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatronLucesService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Servicio\\PatronLucesService.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\Servicio\\PatronLucesService.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Servicio\\PatronLucesService.cs",
+              "RelativeToolTip": "ApiLuces\\Servicio\\PatronLucesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:29:12.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidadorLuces.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Controllers\\ValidadorLuces.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\Controllers\\ValidadorLuces.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Controllers\\ValidadorLuces.cs",
+              "RelativeToolTip": "ApiLuces\\Controllers\\ValidadorLuces.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:26:56.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatronLucesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\DTO\\PatronLucesDTO.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\DTO\\PatronLucesDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\DTO\\PatronLucesDTO.cs",
+              "RelativeToolTip": "ApiLuces\\DTO\\PatronLucesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:39:19.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicionLucesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\DTO\\MedicionLucesDTO.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\DTO\\MedicionLucesDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\DTO\\MedicionLucesDTO.cs",
+              "RelativeToolTip": "ApiLuces\\DTO\\MedicionLucesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:47:42.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatronLuces.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Propiedades\\PatronLuces.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\Propiedades\\PatronLuces.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Propiedades\\PatronLuces.cs",
+              "RelativeToolTip": "ApiLuces\\Propiedades\\PatronLuces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:22:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Configuration\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\Configuration\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Configuration\\MappingProfile.cs",
+              "RelativeToolTip": "ApiLuces\\Configuration\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:59:33.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Program.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Program.cs",
+              "RelativeToolTip": "ApiLuces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:19:07.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPatronLucesService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Servicio\\IPatronLucesService.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\Servicio\\IPatronLucesService.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Servicio\\IPatronLucesService.cs",
+              "RelativeToolTip": "ApiLuces\\Servicio\\IPatronLucesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:33:14.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicionLuces.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Propiedades\\MedicionLuces.cs",
+              "RelativeDocumentMoniker": "ApiLuces\\Propiedades\\MedicionLuces.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\Propiedades\\MedicionLuces.cs",
+              "RelativeToolTip": "ApiLuces\\Propiedades\\MedicionLuces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:04:40.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiLuces.csproj",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\ApiLuces.csproj",
+              "RelativeDocumentMoniker": "ApiLuces\\ApiLuces.csproj",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Apoyo\\Experimentos\\ApiLuces\\ApiLuces\\ApiLuces.csproj",
+              "RelativeToolTip": "ApiLuces\\ApiLuces.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T00:49:55.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

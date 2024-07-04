@@ -1,0 +1,6 @@
+@ApiLuces_HostAddress = http://localhost:5074
+
+GET {{ApiLuces_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
